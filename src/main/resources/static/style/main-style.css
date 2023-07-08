@@ -1,0 +1,9 @@
+body{
+    background-color: #EEEEEE;
+}
+.btn{
+    background-color: dodgerblue;
+    color: white;padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
